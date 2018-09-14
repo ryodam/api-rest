@@ -1,0 +1,1 @@
+json.extract! city, :id, :code, :name, :departmentcode
